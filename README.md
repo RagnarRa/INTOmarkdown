@@ -1,8 +1,11 @@
 #Open Source
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+* Ragnar Borgþór Ragnarsson
 
 ## 1. Linux uppsetning
+
+Ég notaði unetbootin og fylgdi leiðbeiningunum sem þar voru. Ég setti þetta upp sem Dual-Boot með Ubuntu 12.04 LTS. Til þess að gera það breytti ég m.a. boot priority tímabundið í USB í BIOS á tölvunni. Leiðbeiningarnar fann ég hérna: http://unetbootin.sourceforge.net/
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
