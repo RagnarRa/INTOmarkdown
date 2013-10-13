@@ -2,6 +2,7 @@
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 * Ragnar Borgþór Ragnarsson
+* Jón Agnar Stefánsson
 
 ## 1. Linux uppsetning
 
