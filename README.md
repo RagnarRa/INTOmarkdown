@@ -24,14 +24,14 @@ URL: https://github.com/RagnarRa/INTOPrufa
 
 Ragnar: Virtist virka ágætlega. Ég fylgdi bara þeim fyrirmælum sem mér voru gefin og það virkaði fínt. Breytti einni línu í skjalinu svo það skrifar út nafnið mitt. Notaði svo "git commit" og svo "push" til að koma því á github.
 
-Jón Agnar: Virkaði vel. setti bara upp github og þá gat ég gert nánast allt nema þurfti að nota terminator fyrir SSH key, var smá stund að fatta hvernig commit og pull virkaði en þetta reddaðist allt. Breytti einum streng í cpp til að segja "Jón Vann.".
+Jón Agnar: Virkaði vel. fylgdi bara fyrirmælum ásamt google vini mínum, var smá stund að fatta hvernig commit og pull virkaði en þetta reddaðist allt. Breytti einum streng í cpp til að segja "Jón Vann.".
 
 ## 4. Uppsettur hugbúnaður
 
-Program - License - Source code
-Git    - GNU General Public License version 2 - https://github.com/git/git
-Evince - GNU General Public License - https://git.gnome.org/browse/evince
-Vim - http://vimdoc.sourceforge.net/htmldoc/uganda.html#license - https://github.com/applidium/Vim
+Program - License                                                   - Source code
+Git     - GNU General Public License version 2                      - https://github.com/git/git
+Evince  - GNU General Public License                                - https://git.gnome.org/browse/evince
+Vim     - http://vimdoc.sourceforge.net/htmldoc/uganda.html#license - https://github.com/applidium/Vim
 
 ## 5. Unnið með Git (2. hluti)
 
