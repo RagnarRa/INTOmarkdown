@@ -11,17 +11,24 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Lýsið hvernig gekk að setja upp þessi tól:
+
+Eins og í sögu. Sudo apt-get þetta, sudo apt-get hitt, og þetta var komið.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum:
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+URL: https://github.com/RagnarRa/INTOPrufa
+
+Virtist virka ágætlega. Ég fylgdi bara þeim fyrirmælum sem mér voru gefin og það virkaði fínt. Breytti einni línu í skjalinu svo það skrifar út nafnið mitt. Notaði svo "git commit" og svo "push" til að koma því á github.
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Program - License - Source code
+Git    - GNU General Public License version 2 - https://github.com/git/git
+Evince - GNU General Public License - https://git.gnome.org/browse/evince
+Vim - http://vimdoc.sourceforge.net/htmldoc/uganda.html#license - https://github.com/applidium/Vim
 
 ## 5. Unnið með Git (2. hluti)
 
