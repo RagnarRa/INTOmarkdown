@@ -21,7 +21,9 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 URL: https://github.com/RagnarRa/INTOPrufa
 
-Virtist virka ágætlega. Ég fylgdi bara þeim fyrirmælum sem mér voru gefin og það virkaði fínt. Breytti einni línu í skjalinu svo það skrifar út nafnið mitt. Notaði svo "git commit" og svo "push" til að koma því á github.
+Ragnar: Virtist virka ágætlega. Ég fylgdi bara þeim fyrirmælum sem mér voru gefin og það virkaði fínt. Breytti einni línu í skjalinu svo það skrifar út nafnið mitt. Notaði svo "git commit" og svo "push" til að koma því á github.
+
+Jón Agnar: Virkaði vel. setti bara upp github og þá gat ég gert nánast allt nema þurfti að nota terminator fyrir SSH key, var smá stund að fatta hvernig commit og pull virkaði en þetta reddaðist allt. Breytti einum streng í cpp til að segja "Jón Vann.".
 
 ## 4. Uppsettur hugbúnaður
 
