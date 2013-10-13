@@ -7,7 +7,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 Ég notaði unetbootin og fylgdi leiðbeiningunum sem þar voru. Ég setti þetta upp sem Dual-Boot með Ubuntu 12.04 LTS. Til þess að gera það breytti ég m.a. boot priority tímabundið í USB í BIOS á tölvunni. Leiðbeiningarnar fann ég hérna: http://unetbootin.sourceforge.net/
 
-![Mynd](../photo.JPG)
+<img src="../photo.JPG" alt="Mynd" height="100" width="100"> 
 
 ## 2. Uppsetning á vim && git
 
