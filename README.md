@@ -28,9 +28,9 @@ Jón Agnar: Virkaði vel. fylgdi bara fyrirmælum ásamt google vini mínum, var
 
 ## 4. Uppsettur hugbúnaður
 
-Program - License                                                   - Source code
-Git     - GNU General Public License version 2                      - https://github.com/git/git
-Evince  - GNU General Public License                                - https://git.gnome.org/browse/evince
+Program - License                                                   - Source code <br />
+Git     - GNU General Public License version 2                      - https://github.com/git/git <br />
+Evince  - GNU General Public License                                - https://git.gnome.org/browse/evince <br />
 Vim     - http://vimdoc.sourceforge.net/htmldoc/uganda.html#license - https://github.com/applidium/Vim
 
 ## 5. Unnið með Git (2. hluti)
